@@ -9,3 +9,4 @@ predictor = SamPredictor(sam)
 predictor.set_image(<your_image>)
 masks, _, _ = predictor.predict(<input_prompts>)
 ```
+Hello, World!
