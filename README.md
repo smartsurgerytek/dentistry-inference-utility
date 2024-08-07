@@ -2,7 +2,7 @@
 
 ## <a name="GettingStarted"></a>Getting Started
 
-First, download [teeth_spilt.py](#teeth_spilt.py). You can then use this script on your device by running it in VSCode or from the command line.
+First, download [teeth_spilt.py](https://github.com/smartsurgerytek/dentistry-inference-utility/blob/main/teeth_spilt.py). You can then use this script on your device by running it in VSCode or from the command line.
 
 ### Using VSCode
 1. Open VSCode.
@@ -30,7 +30,7 @@ This script will split the detected images into categories such as teeth, dentin
 3. **Completion Notification**: Once the processing is finished, a message box will appear with the text "All Works Done!" to confirm that all tasks have been completed.
 # analysis_to_excel.py
 
-First, download [analysis_to_excel.py](#analysis_to_excel.py). You can then use this script on your device by running it in VSCode or from the command line.
+First, download [analysis_to_excel.py](https://github.com/smartsurgerytek/dentistry-inference-utility/blob/main/analysis_to_excel.py). You can then use this script on your device by running it in VSCode or from the command line.
 
 ### Using VSCode
 1. Open VSCode.
